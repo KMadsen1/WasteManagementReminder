@@ -1,2 +1,2 @@
-# gas-app-1
-First GAS App
+# WasteManagementReminder
+Google Apps Script that filters Gmail and creates Calendar Reminder for Garbage & Recycling.
